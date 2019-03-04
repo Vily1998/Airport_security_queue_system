@@ -1,0 +1,301 @@
+#include"head.h"
+
+void get_resource()
+{
+	int i,j;
+    for(i=0;i<=169;i++)img[i]=newimage();
+    peoples=newimage();
+    vip=newimage();
+    mouse=newimage();
+    gate_open=newimage();
+    gate_close=newimage();
+    background=newimage();
+    badman=newimage();
+    green_button=newimage();
+    red_button=newimage();
+    ball_open=newimage();
+    ball_close=newimage();
+    ball_dark=newimage();
+    getimage(peoples,"peoples.png");
+    getimage(badman,"badman.png");
+    getimage(vip,"vip.png");
+	getimage(mouse,"mouse.png");
+    getimage(gate_open,"gate_open.png");
+    getimage(gate_close,"gate_close.png");
+    getimage(background,"background.png");
+    getimage(green_button,"green_button.png");
+    getimage(red_button,"red_button.png");
+    getimage(ball_open,"ball_open.png");
+    getimage(ball_close,"ball_close.png");
+    getimage(ball_dark,"ball_dark.png");
+    getimage(img[0],"blankimg.png");
+    for(i=1;i<=5;i++)
+    {
+    	for(j=1;j<=31;j++)
+    	{
+			getimage(img[(i-1)*31+j],peoples,(j-1)*48,(i-1)*48,48,48);
+		}
+	}
+	for(i=156;i<=169;i++)
+	{
+		getimage(img[i],badman,(i-156)*48,0,48,48);
+	}
+}
+
+void add_anime(int x1,int y1,int x2,int y2)//添加一个把人从x1,y1传送到x2,y2的动画，若点1的x为0则是从入口开始传送 
+{
+    anime_tail++;
+    anime[anime_tail].start_time=clock();
+    anime[anime_tail].end_time=clock()+500;
+    anime[anime_tail].x=x2;
+    anime[anime_tail].y=y2;
+    anime[anime_tail].kind=0;
+    laser_tail++;
+    laser[laser_tail].x2=x2+16;
+    laser[laser_tail].y2=y2+16;
+    laser[laser_tail].start_time=clock();
+    laser[laser_tail].end_time=clock()+500;
+    if(x1==0||x1>2000)
+    {
+        laser[laser_tail].x1=1022;
+        laser[laser_tail].y1=605;
+    }
+    else
+    {
+        laser[laser_tail].x1=x1+16;
+        laser[laser_tail].y1=y1+16;
+        anime_tail++;
+        anime[anime_tail].start_time=clock();
+        anime[anime_tail].end_time=clock()+500;
+        anime[anime_tail].x=x1;
+        anime[anime_tail].y=y1;
+        anime[anime_tail].kind=1;
+    }
+}
+
+void render_action()
+{
+	int i,j,k;
+    cleardevice();
+    setfont(12,0,"宋体");
+    putimage(0,0,background);
+    if(get_off_work||!(snake.number<=max_cust_single_line*max_lines&&0==new_people&&people[people_tail].appear_time+500<=clock()))
+    {
+        putimage_transparent(NULL,ball_dark,972,555,0X0);
+    }
+	int lastx=0,lasty=0;
+	int frontx,fronty=696-queue_open*48;//计算蛇形队列最前端位置
+	if(queue_open==1||queue_open==3)
+	{
+		frontx=120+max_cust_single_line*48;
+	}
+	else
+	{
+		frontx=168;
+	}
+    for(i=people_head;i<people_tail;i++)//计算人的位置并渲染 
+    {
+    	if(clock()>people[i].die_time)
+    	{
+    		if(i==people_head)
+    		{
+    			people_head++;
+			}
+    		continue;
+		}
+    	if(people[i].is_emergency)
+    	{
+    		int t=(clock()-people[i].appear_time)/1000;
+    		if(t>13&&i==people_head)
+    		{
+    			people_head++;
+    			continue;
+			}
+			if(t>13)
+			{
+				continue;
+			}
+    		int x_map[15]={72,72,72,72,72,120,120,120,120,72,72,72,72,72};
+    		int y_map[15]={648,600,552,504,456,456,408,360,312,312,264,216,168,120};
+    		people[i].x=x_map[t];
+    		people[i].y=y_map[t];
+    		putimage_transparent(NULL,vip,people[i].x-24,people[i].y-24,0X0);
+    		setcolor(EGERGB(0,0,255));
+			xyprintf(people[i].x-24,people[i].y+15," No. %d",people[i].id);
+    		continue;
+		}
+		else if(people[i].is_bad&&people[i].die_time<2147483647&&clock()>=people[i].die_time-2500)
+    	{
+            add_anime(people[i].x,people[i].y,896,170);
+            people[i].die_time=200;
+            people[i].kind=0;
+            continue;
+		}
+    	else if(people[i].die_time<2147483647&&clock()<=people[i].die_time&&clock()>=people[i].die_time-1000)
+    	{
+    		if(people[i].is_bad==0)
+    		{
+                people[i].x=gate[people[i].gate_num].x;
+    		    people[i].y=24;
+    		    setcolor(EGERGB(255,0,0));
+            }
+            else
+            {
+                continue;
+            }
+		}
+    	else if(people[i].gate_num==0&&frame_count%30==0)
+    	{
+    		if(people[i].x==2147483647)
+    		{
+    			people[i].x=168;
+        		people[i].y=648;
+        		continue;
+			}
+    		int x=people[i].x,y=people[i].y;
+    		if(lastx==0)
+			{
+				if(people[i].x!=frontx||people[i].y!=fronty)
+    			{
+    				people[i].x=nextx(x,y);
+    				people[i].y=nexty(x,y);
+				}
+			}
+			else
+			{
+				if(nextx(people[i].x,people[i].y)!=lastx||nexty(people[i].x,people[i].y)!=lasty)
+				{
+					people[i].x=nextx(x,y);
+    				people[i].y=nexty(x,y);
+				}
+			}
+    		lastx=people[i].x;
+			lasty=people[i].y;
+		}
+		if(people[i].x==2147483647)
+    	{
+    		people[i].x=168;
+        	people[i].y=648;
+		}
+		putimage_transparent(NULL,img[people[i].kind],people[i].x-24,people[i].y-24,0X0);
+		if(people[i].is_bad)
+        {
+            setcolor(EGERGB(150,0,150));
+        }
+        else if(people[i].y>400)
+        {
+            setcolor(EGERGB(255,0,0));
+        }
+        else
+        {
+            setcolor(EGERGB(255,255,255));
+        }
+        xyprintf(people[i].x-24,people[i].y+15," No. %d",people[i].id);
+	}
+	for(i=1;i<=8;i++)
+	{
+		for(j=gate[i].head;j<gate[i].tail;j++)
+		{
+			k=gate[i].in_line[j].id;
+			people[k].x=gate[i].x;
+			people[k].y=24+(j+1-gate[i].head)*48;
+			putimage_transparent(NULL,img[people[k].kind],people[k].x-24,people[k].y-24,0X0);
+			if(people[k].is_bad)
+            {
+                setcolor(EGERGB(150,0,150));
+            }
+            else
+            {
+                setcolor(EGERGB(255,255,255));
+            }
+			xyprintf(people[k].x-24,people[k].y+15," No. %d",people[k].id);
+		}
+	}
+	for(i=1;i<=8;i++)//渲染gate 
+    {
+    	if(gate[i].check_end_time-clock()<=1000&&max_check>=i&&gate[i].state<3&&gate[i].is_off!=0)
+    	{
+    		putimage_transparent(NULL,gate_open,gate[i].x-44,gate[i].y-34,0X0);
+		}
+		else
+		{
+			putimage_transparent(NULL,gate_close,gate[i].x-44,gate[i].y-34,0X0);
+		}
+		if(gate[i].state<3&&max_check>=i&&gate[i].is_off!=0&&gate[i].ready_to_rest==0)
+		{
+			putimage_transparent(NULL,green_button,1011,104+i*48,0X0);
+		}
+		else
+		{
+			putimage_transparent(NULL,red_button,1011,104+i*48,0X0);
+		}
+	}
+	for(i=anime_head;i<=anime_tail&&anime_tail>0&&anime_head<=anime_tail;i++)
+	{
+        while(i==anime_head&&anime[i].end_time<clock()&&anime_head<=anime_tail)
+        {
+            anime_head++;
+            i++;
+        }
+        if(anime[i].end_time<clock()||clock()<anime[i].start_time)
+        {
+            continue;
+        }
+        int closed;
+        if(anime[i].kind==0)
+        {
+            if(anime[i].end_time-clock()<=250)
+            {
+                closed=0;
+            }
+            else
+            {
+                closed=1;
+            }
+        }
+        else
+        {
+            if(anime[i].end_time-clock()<=250)
+            {
+                closed=1;
+            }
+            else
+            {
+                closed=0;
+            }
+        }
+        if(closed==1)
+        {
+            putimage_transparent(NULL,ball_close,anime[i].x,anime[i].y,0X0);
+            //putimage_transparent(NULL,ball_close,anime[i].x,anime[i].y,0X0);          
+        }
+        else
+        {
+            putimage_transparent(NULL,ball_open,anime[i].x,anime[i].y,0X0);
+            //putimage_transparent(NULL,ball_open,anime[i].x,anime[i].y,0X0);
+        }
+    }
+    for(i=laser_head;i<=laser_tail&&laser_tail>0&&laser_head<=laser_tail;i++)
+    {
+        //画一条从laser[i].x1,y1到x2,y2的红线激光
+        while(i==laser_head&&laser[i].end_time<clock()&&laser_head<=laser_tail)
+        {
+            laser_head++;
+            i++;
+        }
+        if(laser[i].end_time<clock()||clock()<laser[i].start_time)
+        {
+            continue;
+        }
+        setcolor(EGERGB(255,0,0));
+        line(laser[i].x1,laser[i].y1,laser[i].x2,laser[i].y2);
+        if(laser[i].start_time<clock()&&clock()<laser[i].start_time+180)
+        {
+            int progress=clock()-laser[i].start_time;
+            setcolor(EGERGB(255,255,255));
+            line(laser[i].x1+(laser[i].x2-laser[i].x1)*progress/200,laser[i].y1+(laser[i].y2-laser[i].y1)*progress/200,laser[i].x1+(laser[i].x2-laser[i].x1)*(progress+20)/200,laser[i].y1+(laser[i].y2-laser[i].y1)*(progress+20)/200);
+        }
+    }
+	putimage_transparent(NULL,mouse,mouse_x-12,mouse_y-12,0X0);
+}
+

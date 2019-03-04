@@ -1,0 +1,2967 @@
+T=<25s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=1 WinListCustCount(安检口队列人数)=1
+1号乘客进入1号安检口
+1号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=2 WinListCustCount(安检口队列人数)=1
+2号乘客进入2号安检口
+2号乘客将要离开2号安检口
+WIN3:State=办理结束 WinListCustCount(安检口队列人数)=0
+WIN4:State=办理结束 WinListCustCount(安检口队列人数)=0
+WIN5:State=办理结束 WinListCustCount(安检口队列人数)=0
+WIN6:State=办理结束 WinListCustCount(安检口队列人数)=0
+WIN7:State=办理结束 WinListCustCount(安检口队列人数)=0
+WIN8:State=办理结束 WinListCustCount(安检口队列人数)=0
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<26s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=1 WinListCustCount(安检口队列人数)=1
+1号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=2 WinListCustCount(安检口队列人数)=1
+2号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=3 WinListCustCount(安检口队列人数)=1
+3号乘客进入3号安检口
+3号乘客将要离开3号安检口
+WIN4:State=办理结束 WinListCustCount(安检口队列人数)=0
+WIN5:State=办理结束 WinListCustCount(安检口队列人数)=0
+WIN6:State=办理结束 WinListCustCount(安检口队列人数)=0
+WIN7:State=办理结束 WinListCustCount(安检口队列人数)=0
+WIN8:State=办理结束 WinListCustCount(安检口队列人数)=0
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<27s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=1 WinListCustCount(安检口队列人数)=1
+1号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=2 WinListCustCount(安检口队列人数)=1
+2号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=3 WinListCustCount(安检口队列人数)=1
+3号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=4 WinListCustCount(安检口队列人数)=1
+4号乘客进入4号安检口
+4号乘客将要离开4号安检口
+WIN5:State=办理结束 WinListCustCount(安检口队列人数)=0
+WIN6:State=办理结束 WinListCustCount(安检口队列人数)=0
+WIN7:State=办理结束 WinListCustCount(安检口队列人数)=0
+WIN8:State=办理结束 WinListCustCount(安检口队列人数)=0
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<28s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=1 WinListCustCount(安检口队列人数)=1
+1号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=2 WinListCustCount(安检口队列人数)=1
+2号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=3 WinListCustCount(安检口队列人数)=1
+3号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=4 WinListCustCount(安检口队列人数)=1
+4号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 WinListCustCount(安检口队列人数)=1
+5号乘客进入5号安检口
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 WinListCustCount(安检口队列人数)=1
+6号乘客进入6号安检口
+6号乘客将要离开6号安检口
+WIN7:State=办理结束 WinListCustCount(安检口队列人数)=0
+WIN8:State=办理结束 WinListCustCount(安检口队列人数)=0
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<29s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=1 WinListCustCount(安检口队列人数)=1
+1号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=2 WinListCustCount(安检口队列人数)=1
+2号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=3 WinListCustCount(安检口队列人数)=1
+3号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=4 WinListCustCount(安检口队列人数)=1
+4号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 WinListCustCount(安检口队列人数)=1
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 WinListCustCount(安检口队列人数)=1
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 WinListCustCount(安检口队列人数)=1
+7号乘客进入7号安检口
+7号乘客将要离开7号安检口
+WIN8:State=办理结束 WinListCustCount(安检口队列人数)=0
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<30s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=1 WinListCustCount(安检口队列人数)=1
+1号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=2 WinListCustCount(安检口队列人数)=1
+2号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=3 WinListCustCount(安检口队列人数)=1
+3号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=4 WinListCustCount(安检口队列人数)=1
+4号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 WinListCustCount(安检口队列人数)=1
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 WinListCustCount(安检口队列人数)=1
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 WinListCustCount(安检口队列人数)=1
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 WinListCustCount(安检口队列人数)=1
+8号乘客进入8号安检口
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<31s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 WinListCustCount(安检口队列人数)=1
+9号乘客进入1号安检口
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=2 10 WinListCustCount(安检口队列人数)=2
+10号乘客进入2号安检口
+2号乘客将要离开2号安检口
+WIN3:State=办理结束 WinListCustCount(安检口队列人数)=0
+WIN4:State=办理中 WinList(队列中乘客编号列表)=4 WinListCustCount(安检口队列人数)=1
+4号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 WinListCustCount(安检口队列人数)=1
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 WinListCustCount(安检口队列人数)=1
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 WinListCustCount(安检口队列人数)=1
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 WinListCustCount(安检口队列人数)=1
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<32s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 12 WinListCustCount(安检口队列人数)=2
+12号乘客进入1号安检口
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=2 10 WinListCustCount(安检口队列人数)=2
+2号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=11 WinListCustCount(安检口队列人数)=1
+11号乘客进入3号安检口
+11号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=4 WinListCustCount(安检口队列人数)=1
+4号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 WinListCustCount(安检口队列人数)=1
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 WinListCustCount(安检口队列人数)=1
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 WinListCustCount(安检口队列人数)=1
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 WinListCustCount(安检口队列人数)=1
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<33s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 12 WinListCustCount(安检口队列人数)=2
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=2 10 WinListCustCount(安检口队列人数)=2
+2号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=11 13 WinListCustCount(安检口队列人数)=2
+13号乘客进入3号安检口
+11号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=4 14 WinListCustCount(安检口队列人数)=2
+14号乘客进入4号安检口
+4号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 WinListCustCount(安检口队列人数)=1
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 WinListCustCount(安检口队列人数)=1
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 WinListCustCount(安检口队列人数)=1
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 WinListCustCount(安检口队列人数)=1
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<34s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 12 WinListCustCount(安检口队列人数)=2
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=2 10 WinListCustCount(安检口队列人数)=2
+2号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=11 13 WinListCustCount(安检口队列人数)=2
+11号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=4 14 WinListCustCount(安检口队列人数)=2
+4号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 15 WinListCustCount(安检口队列人数)=2
+15号乘客进入5号安检口
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 WinListCustCount(安检口队列人数)=1
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 WinListCustCount(安检口队列人数)=1
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 WinListCustCount(安检口队列人数)=1
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<35s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 12 WinListCustCount(安检口队列人数)=2
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=2 10 WinListCustCount(安检口队列人数)=2
+2号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=11 13 WinListCustCount(安检口队列人数)=2
+11号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=4 14 WinListCustCount(安检口队列人数)=2
+4号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 15 WinListCustCount(安检口队列人数)=2
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 16 WinListCustCount(安检口队列人数)=2
+16号乘客进入6号安检口
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 17 WinListCustCount(安检口队列人数)=2
+17号乘客进入7号安检口
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 WinListCustCount(安检口队列人数)=1
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<36s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 12 WinListCustCount(安检口队列人数)=2
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=2 10 WinListCustCount(安检口队列人数)=2
+2号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=11 13 WinListCustCount(安检口队列人数)=2
+11号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=14 WinListCustCount(安检口队列人数)=1
+14号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 15 WinListCustCount(安检口队列人数)=2
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 16 WinListCustCount(安检口队列人数)=2
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 17 WinListCustCount(安检口队列人数)=2
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 18 WinListCustCount(安检口队列人数)=2
+18号乘客进入8号安检口
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<37s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 12 WinListCustCount(安检口队列人数)=2
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=10 WinListCustCount(安检口队列人数)=1
+10号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=11 13 WinListCustCount(安检口队列人数)=2
+11号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=14 19 WinListCustCount(安检口队列人数)=2
+19号乘客进入4号安检口
+14号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 15 WinListCustCount(安检口队列人数)=2
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 16 WinListCustCount(安检口队列人数)=2
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 17 WinListCustCount(安检口队列人数)=2
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 18 WinListCustCount(安检口队列人数)=2
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<38s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 12 21 WinListCustCount(安检口队列人数)=3
+21号乘客进入1号安检口
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=10 20 WinListCustCount(安检口队列人数)=2
+20号乘客进入2号安检口
+10号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=11 13 WinListCustCount(安检口队列人数)=2
+11号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=14 19 WinListCustCount(安检口队列人数)=2
+14号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 15 WinListCustCount(安检口队列人数)=2
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 16 WinListCustCount(安检口队列人数)=2
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 17 WinListCustCount(安检口队列人数)=2
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 18 WinListCustCount(安检口队列人数)=2
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<39s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 12 21 WinListCustCount(安检口队列人数)=3
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=10 20 22 WinListCustCount(安检口队列人数)=3
+22号乘客进入2号安检口
+10号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=13 23 WinListCustCount(安检口队列人数)=2
+23号乘客进入3号安检口
+13号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=14 19 WinListCustCount(安检口队列人数)=2
+14号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 15 WinListCustCount(安检口队列人数)=2
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 16 WinListCustCount(安检口队列人数)=2
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 17 WinListCustCount(安检口队列人数)=2
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 18 WinListCustCount(安检口队列人数)=2
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<40s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 12 21 WinListCustCount(安检口队列人数)=3
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=10 20 22 WinListCustCount(安检口队列人数)=3
+10号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=13 23 24 WinListCustCount(安检口队列人数)=3
+24号乘客进入3号安检口
+13号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=14 19 WinListCustCount(安检口队列人数)=2
+14号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 15 WinListCustCount(安检口队列人数)=2
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 16 WinListCustCount(安检口队列人数)=2
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 17 WinListCustCount(安检口队列人数)=2
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 18 WinListCustCount(安检口队列人数)=2
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<41s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 12 21 WinListCustCount(安检口队列人数)=3
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=10 20 22 WinListCustCount(安检口队列人数)=3
+10号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=13 23 24 WinListCustCount(安检口队列人数)=3
+13号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=14 19 25 WinListCustCount(安检口队列人数)=3
+25号乘客进入4号安检口
+14号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 15 WinListCustCount(安检口队列人数)=2
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 16 WinListCustCount(安检口队列人数)=2
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 17 WinListCustCount(安检口队列人数)=2
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 18 WinListCustCount(安检口队列人数)=2
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<42s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 12 21 WinListCustCount(安检口队列人数)=3
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=10 20 22 WinListCustCount(安检口队列人数)=3
+10号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=13 23 24 WinListCustCount(安检口队列人数)=3
+13号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=14 19 25 WinListCustCount(安检口队列人数)=3
+14号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 15 26 WinListCustCount(安检口队列人数)=3
+26号乘客进入5号安检口
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 16 27 WinListCustCount(安检口队列人数)=3
+27号乘客进入6号安检口
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 17 WinListCustCount(安检口队列人数)=2
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 18 WinListCustCount(安检口队列人数)=2
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<43s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 12 21 WinListCustCount(安检口队列人数)=3
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=10 20 22 WinListCustCount(安检口队列人数)=3
+10号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=13 23 24 WinListCustCount(安检口队列人数)=3
+13号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=14 19 25 WinListCustCount(安检口队列人数)=3
+14号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 15 26 WinListCustCount(安检口队列人数)=3
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 16 27 WinListCustCount(安检口队列人数)=3
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 17 28 WinListCustCount(安检口队列人数)=3
+28号乘客进入7号安检口
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 18 WinListCustCount(安检口队列人数)=2
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<44s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 12 21 WinListCustCount(安检口队列人数)=3
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=20 22 30 WinListCustCount(安检口队列人数)=3
+30号乘客进入2号安检口
+20号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=13 23 24 WinListCustCount(安检口队列人数)=3
+13号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=19 25 29 WinListCustCount(安检口队列人数)=3
+29号乘客进入4号安检口
+19号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 15 26 WinListCustCount(安检口队列人数)=3
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=6 16 27 WinListCustCount(安检口队列人数)=3
+6号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 17 28 WinListCustCount(安检口队列人数)=3
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 18 WinListCustCount(安检口队列人数)=2
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<45s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=9 12 21 WinListCustCount(安检口队列人数)=3
+9号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=20 22 30 WinListCustCount(安检口队列人数)=3
+20号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=13 23 24 WinListCustCount(安检口队列人数)=3
+13号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=19 25 29 WinListCustCount(安检口队列人数)=3
+19号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=5 15 26 WinListCustCount(安检口队列人数)=3
+5号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=16 27 31 WinListCustCount(安检口队列人数)=3
+31号乘客进入6号安检口
+16号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 17 28 WinListCustCount(安检口队列人数)=3
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=8 18 WinListCustCount(安检口队列人数)=2
+8号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<46s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=12 21 WinListCustCount(安检口队列人数)=2
+12号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=20 22 30 WinListCustCount(安检口队列人数)=3
+20号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=13 23 24 WinListCustCount(安检口队列人数)=3
+13号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=19 25 29 WinListCustCount(安检口队列人数)=3
+19号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=15 26 32 WinListCustCount(安检口队列人数)=3
+32号乘客进入5号安检口
+15号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=16 27 31 WinListCustCount(安检口队列人数)=3
+16号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=7 17 28 WinListCustCount(安检口队列人数)=3
+7号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=18 33 WinListCustCount(安检口队列人数)=2
+33号乘客进入8号安检口
+18号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<47s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=12 21 34 WinListCustCount(安检口队列人数)=3
+34号乘客进入1号安检口
+12号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=20 22 30 WinListCustCount(安检口队列人数)=3
+20号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=13 23 24 WinListCustCount(安检口队列人数)=3
+13号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=19 25 29 WinListCustCount(安检口队列人数)=3
+19号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=15 26 32 WinListCustCount(安检口队列人数)=3
+15号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=16 27 31 WinListCustCount(安检口队列人数)=3
+16号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=17 28 WinListCustCount(安检口队列人数)=2
+17号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=18 33 WinListCustCount(安检口队列人数)=2
+18号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<48s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=12 21 34 WinListCustCount(安检口队列人数)=3
+12号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=20 22 30 WinListCustCount(安检口队列人数)=3
+20号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=13 23 24 WinListCustCount(安检口队列人数)=3
+13号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=19 25 29 WinListCustCount(安检口队列人数)=3
+19号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=15 26 32 WinListCustCount(安检口队列人数)=3
+15号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=16 27 31 WinListCustCount(安检口队列人数)=3
+16号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=17 28 35 WinListCustCount(安检口队列人数)=3
+35号乘客进入7号安检口
+17号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=18 33 36 WinListCustCount(安检口队列人数)=3
+36号乘客进入8号安检口
+18号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<49s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=12 21 34 37 WinListCustCount(安检口队列人数)=4
+37号乘客进入1号安检口
+12号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=20 22 30 38 WinListCustCount(安检口队列人数)=4
+38号乘客进入2号安检口
+20号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=13 23 24 WinListCustCount(安检口队列人数)=3
+13号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=19 25 29 WinListCustCount(安检口队列人数)=3
+19号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=15 26 32 WinListCustCount(安检口队列人数)=3
+15号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=16 27 31 WinListCustCount(安检口队列人数)=3
+16号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=17 28 35 WinListCustCount(安检口队列人数)=3
+17号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=18 33 36 WinListCustCount(安检口队列人数)=3
+18号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<50s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=12 21 34 37 WinListCustCount(安检口队列人数)=4
+12号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=22 30 38 WinListCustCount(安检口队列人数)=3
+22号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=13 23 24 39 WinListCustCount(安检口队列人数)=4
+39号乘客进入3号安检口
+13号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=19 25 29 WinListCustCount(安检口队列人数)=3
+19号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=15 26 32 WinListCustCount(安检口队列人数)=3
+15号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=16 27 31 WinListCustCount(安检口队列人数)=3
+16号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=17 28 35 WinListCustCount(安检口队列人数)=3
+17号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=18 33 36 WinListCustCount(安检口队列人数)=3
+18号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<51s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=12 21 34 37 WinListCustCount(安检口队列人数)=4
+12号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=22 30 38 40 WinListCustCount(安检口队列人数)=4
+40号乘客进入2号安检口
+22号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=13 23 24 39 WinListCustCount(安检口队列人数)=4
+13号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=19 25 29 41 WinListCustCount(安检口队列人数)=4
+41号乘客进入4号安检口
+19号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=15 26 32 WinListCustCount(安检口队列人数)=3
+15号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=16 27 31 WinListCustCount(安检口队列人数)=3
+16号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=17 28 35 WinListCustCount(安检口队列人数)=3
+17号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=18 33 36 WinListCustCount(安检口队列人数)=3
+18号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<52s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=12 21 34 37 WinListCustCount(安检口队列人数)=4
+12号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=22 30 38 40 WinListCustCount(安检口队列人数)=4
+22号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=23 24 39 42 WinListCustCount(安检口队列人数)=4
+42号乘客进入3号安检口
+23号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=19 25 29 41 WinListCustCount(安检口队列人数)=4
+19号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=15 26 32 WinListCustCount(安检口队列人数)=3
+15号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=16 27 31 WinListCustCount(安检口队列人数)=3
+16号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=17 28 35 WinListCustCount(安检口队列人数)=3
+17号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=18 33 36 WinListCustCount(安检口队列人数)=3
+18号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<53s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=12 21 34 37 WinListCustCount(安检口队列人数)=4
+12号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=22 30 38 40 WinListCustCount(安检口队列人数)=4
+22号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=23 24 39 42 WinListCustCount(安检口队列人数)=4
+23号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=19 25 29 41 WinListCustCount(安检口队列人数)=4
+19号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=15 26 32 43 WinListCustCount(安检口队列人数)=4
+43号乘客进入5号安检口
+15号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=16 27 31 44 WinListCustCount(安检口队列人数)=4
+44号乘客进入6号安检口
+16号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=17 28 35 WinListCustCount(安检口队列人数)=3
+17号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=18 33 36 WinListCustCount(安检口队列人数)=3
+18号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<54s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=12 21 34 37 WinListCustCount(安检口队列人数)=4
+12号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=22 30 38 40 WinListCustCount(安检口队列人数)=4
+22号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=23 24 39 42 WinListCustCount(安检口队列人数)=4
+23号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=19 25 29 41 WinListCustCount(安检口队列人数)=4
+19号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=15 26 32 43 WinListCustCount(安检口队列人数)=4
+15号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=16 27 31 44 WinListCustCount(安检口队列人数)=4
+16号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=17 28 35 45 WinListCustCount(安检口队列人数)=4
+45号乘客进入7号安检口
+17号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=18 33 36 WinListCustCount(安检口队列人数)=3
+18号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<55s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=12 21 34 37 WinListCustCount(安检口队列人数)=4
+12号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=22 30 38 40 WinListCustCount(安检口队列人数)=4
+22号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=23 24 39 42 WinListCustCount(安检口队列人数)=4
+23号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=19 25 29 41 WinListCustCount(安检口队列人数)=4
+19号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=26 32 43 47 WinListCustCount(安检口队列人数)=4
+47号乘客进入5号安检口
+26号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=16 27 31 44 WinListCustCount(安检口队列人数)=4
+16号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=17 28 35 45 WinListCustCount(安检口队列人数)=4
+17号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=18 33 36 46 WinListCustCount(安检口队列人数)=4
+46号乘客进入8号安检口
+18号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<56s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=12 21 34 37 WinListCustCount(安检口队列人数)=4
+12号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=22 30 38 40 WinListCustCount(安检口队列人数)=4
+22号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=23 24 39 42 WinListCustCount(安检口队列人数)=4
+23号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=25 29 41 48 WinListCustCount(安检口队列人数)=4
+48号乘客进入4号安检口
+25号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=26 32 43 47 WinListCustCount(安检口队列人数)=4
+26号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=16 27 31 44 WinListCustCount(安检口队列人数)=4
+16号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=17 28 35 45 WinListCustCount(安检口队列人数)=4
+17号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=33 36 46 49 WinListCustCount(安检口队列人数)=4
+49号乘客进入8号安检口
+33号乘客将要离开8号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=0
+
+T=<57s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=12 21 34 37 WinListCustCount(安检口队列人数)=4
+12号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=22 30 38 40 WinListCustCount(安检口队列人数)=4
+22号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=23 24 39 42 WinListCustCount(安检口队列人数)=4
+23号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=25 29 41 48 WinListCustCount(安检口队列人数)=4
+25号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=26 32 43 47 WinListCustCount(安检口队列人数)=4
+26号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=16 27 31 44 WinListCustCount(安检口队列人数)=4
+16号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=17 28 35 45 WinListCustCount(安检口队列人数)=4
+17号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=33 36 46 49 WinListCustCount(安检口队列人数)=4
+33号乘客将要离开8号安检口
+50号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=1
+
+T=<58s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=12 21 34 37 WinListCustCount(安检口队列人数)=4
+12号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=22 30 38 40 WinListCustCount(安检口队列人数)=4
+22号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=23 24 39 42 WinListCustCount(安检口队列人数)=4
+23号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=25 29 41 48 WinListCustCount(安检口队列人数)=4
+25号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=26 32 43 47 WinListCustCount(安检口队列人数)=4
+26号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=16 27 31 44 WinListCustCount(安检口队列人数)=4
+16号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=17 28 35 45 WinListCustCount(安检口队列人数)=4
+17号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=33 36 46 49 WinListCustCount(安检口队列人数)=4
+33号乘客将要离开8号安检口
+50号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=3
+
+T=<59s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+51号乘客进入1号安检口
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=22 30 38 40 WinListCustCount(安检口队列人数)=4
+22号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=23 24 39 42 WinListCustCount(安检口队列人数)=4
+23号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=25 29 41 48 WinListCustCount(安检口队列人数)=4
+25号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=26 32 43 47 WinListCustCount(安检口队列人数)=4
+26号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=27 31 44 50 WinListCustCount(安检口队列人数)=4
+50号乘客进入6号安检口
+27号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=17 28 35 45 WinListCustCount(安检口队列人数)=4
+17号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=33 36 46 49 WinListCustCount(安检口队列人数)=4
+33号乘客将要离开8号安检口
+52号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=2
+
+T=<60s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=22 30 38 40 WinListCustCount(安检口队列人数)=4
+22号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=23 24 39 42 WinListCustCount(安检口队列人数)=4
+23号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=25 29 41 48 WinListCustCount(安检口队列人数)=4
+25号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=26 32 43 47 WinListCustCount(安检口队列人数)=4
+26号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=27 31 44 50 WinListCustCount(安检口队列人数)=4
+27号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=17 28 35 45 WinListCustCount(安检口队列人数)=4
+17号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=33 36 46 49 WinListCustCount(安检口队列人数)=4
+33号乘客将要离开8号安检口
+52号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=3
+
+T=<61s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=22 30 38 40 WinListCustCount(安检口队列人数)=4
+22号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=23 24 39 42 WinListCustCount(安检口队列人数)=4
+23号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=29 41 48 52 WinListCustCount(安检口队列人数)=4
+52号乘客进入4号安检口
+29号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=26 32 43 47 WinListCustCount(安检口队列人数)=4
+26号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=27 31 44 50 WinListCustCount(安检口队列人数)=4
+27号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+53号乘客进入7号安检口
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=33 36 46 49 WinListCustCount(安检口队列人数)=4
+33号乘客将要离开8号安检口
+54号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=3
+
+T=<62s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+54号乘客进入2号安检口
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=23 24 39 42 WinListCustCount(安检口队列人数)=4
+23号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=29 41 48 52 WinListCustCount(安检口队列人数)=4
+29号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=26 32 43 47 WinListCustCount(安检口队列人数)=4
+26号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=27 31 44 50 WinListCustCount(安检口队列人数)=4
+27号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=33 36 46 49 WinListCustCount(安检口队列人数)=4
+33号乘客将要离开8号安检口
+55号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=3
+
+T=<63s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=24 39 42 55 WinListCustCount(安检口队列人数)=4
+55号乘客进入3号安检口
+24号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=29 41 48 52 WinListCustCount(安检口队列人数)=4
+29号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=26 32 43 47 WinListCustCount(安检口队列人数)=4
+26号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=27 31 44 50 WinListCustCount(安检口队列人数)=4
+27号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=33 36 46 49 WinListCustCount(安检口队列人数)=4
+33号乘客将要离开8号安检口
+56号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=4
+
+T=<64s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=24 39 42 55 WinListCustCount(安检口队列人数)=4
+24号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=29 41 48 52 WinListCustCount(安检口队列人数)=4
+29号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=26 32 43 47 WinListCustCount(安检口队列人数)=4
+26号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=27 31 44 50 WinListCustCount(安检口队列人数)=4
+27号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=33 36 46 49 WinListCustCount(安检口队列人数)=4
+33号乘客将要离开8号安检口
+56号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=5
+
+T=<65s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=24 39 42 55 WinListCustCount(安检口队列人数)=4
+24号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=29 41 48 52 WinListCustCount(安检口队列人数)=4
+29号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=26 32 43 47 WinListCustCount(安检口队列人数)=4
+26号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=27 31 44 50 WinListCustCount(安检口队列人数)=4
+27号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=33 36 46 49 WinListCustCount(安检口队列人数)=4
+33号乘客将要离开8号安检口
+56号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=7
+
+T=<66s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=24 39 42 55 WinListCustCount(安检口队列人数)=4
+24号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=29 41 48 52 WinListCustCount(安检口队列人数)=4
+29号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=26 32 43 47 WinListCustCount(安检口队列人数)=4
+26号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=27 31 44 50 WinListCustCount(安检口队列人数)=4
+27号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=33 36 46 49 WinListCustCount(安检口队列人数)=4
+33号乘客将要离开8号安检口
+56号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=8
+
+T=<67s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=24 39 42 55 WinListCustCount(安检口队列人数)=4
+24号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=29 41 48 52 WinListCustCount(安检口队列人数)=4
+29号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=26 32 43 47 WinListCustCount(安检口队列人数)=4
+26号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=27 31 44 50 WinListCustCount(安检口队列人数)=4
+27号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=33 36 46 49 WinListCustCount(安检口队列人数)=4
+33号乘客将要离开8号安检口
+56号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=9
+
+T=<68s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=24 39 42 55 WinListCustCount(安检口队列人数)=4
+24号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=29 41 48 52 WinListCustCount(安检口队列人数)=4
+29号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=32 43 47 57 WinListCustCount(安检口队列人数)=4
+57号乘客进入5号安检口
+32号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=31 44 50 56 WinListCustCount(安检口队列人数)=4
+56号乘客进入6号安检口
+31号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=36 46 49 58 WinListCustCount(安检口队列人数)=4
+58号乘客进入8号安检口
+36号乘客将要离开8号安检口
+59号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=7
+
+T=<69s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=24 39 42 55 WinListCustCount(安检口队列人数)=4
+24号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+59号乘客进入4号安检口
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=32 43 47 57 WinListCustCount(安检口队列人数)=4
+32号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=31 44 50 56 WinListCustCount(安检口队列人数)=4
+31号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=36 46 49 58 WinListCustCount(安检口队列人数)=4
+36号乘客将要离开8号安检口
+60号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=8
+
+T=<70s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=24 39 42 55 WinListCustCount(安检口队列人数)=4
+24号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=32 43 47 57 WinListCustCount(安检口队列人数)=4
+32号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=31 44 50 56 WinListCustCount(安检口队列人数)=4
+31号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=36 46 49 58 WinListCustCount(安检口队列人数)=4
+36号乘客将要离开8号安检口
+60号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=9
+
+T=<71s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=24 39 42 55 WinListCustCount(安检口队列人数)=4
+24号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=32 43 47 57 WinListCustCount(安检口队列人数)=4
+32号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=31 44 50 56 WinListCustCount(安检口队列人数)=4
+31号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=36 46 49 58 WinListCustCount(安检口队列人数)=4
+36号乘客将要离开8号安检口
+60号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=10
+
+T=<72s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=24 39 42 55 WinListCustCount(安检口队列人数)=4
+24号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=32 43 47 57 WinListCustCount(安检口队列人数)=4
+32号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=31 44 50 56 WinListCustCount(安检口队列人数)=4
+31号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=36 46 49 58 WinListCustCount(安检口队列人数)=4
+36号乘客将要离开8号安检口
+60号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=12
+
+T=<73s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=39 42 55 60 WinListCustCount(安检口队列人数)=4
+60号乘客进入3号安检口
+39号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=32 43 47 57 WinListCustCount(安检口队列人数)=4
+32号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=31 44 50 56 WinListCustCount(安检口队列人数)=4
+31号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=36 46 49 58 WinListCustCount(安检口队列人数)=4
+36号乘客将要离开8号安检口
+61号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=12
+
+T=<74s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=39 42 55 60 WinListCustCount(安检口队列人数)=4
+39号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=32 43 47 57 WinListCustCount(安检口队列人数)=4
+32号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=31 44 50 56 WinListCustCount(安检口队列人数)=4
+31号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=36 46 49 58 WinListCustCount(安检口队列人数)=4
+36号乘客将要离开8号安检口
+61号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=13
+
+T=<75s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=39 42 55 60 WinListCustCount(安检口队列人数)=4
+39号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=32 43 47 57 WinListCustCount(安检口队列人数)=4
+32号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=31 44 50 56 WinListCustCount(安检口队列人数)=4
+31号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=36 46 49 58 WinListCustCount(安检口队列人数)=4
+36号乘客将要离开8号安检口
+61号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=14
+
+T=<76s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=21 34 37 51 WinListCustCount(安检口队列人数)=4
+21号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=39 42 55 60 WinListCustCount(安检口队列人数)=4
+39号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=43 47 57 61 WinListCustCount(安检口队列人数)=4
+61号乘客进入5号安检口
+43号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=31 44 50 56 WinListCustCount(安检口队列人数)=4
+31号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=36 46 49 58 WinListCustCount(安检口队列人数)=4
+36号乘客将要离开8号安检口
+62号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=15
+
+T=<77s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=34 37 51 62 WinListCustCount(安检口队列人数)=4
+62号乘客进入1号安检口
+34号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=39 42 55 60 WinListCustCount(安检口队列人数)=4
+39号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=43 47 57 61 WinListCustCount(安检口队列人数)=4
+43号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=31 44 50 56 WinListCustCount(安检口队列人数)=4
+31号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=36 46 49 58 WinListCustCount(安检口队列人数)=4
+36号乘客将要离开8号安检口
+63号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=0
+ListCustCount(排队缓冲区总乘客数)=15
+
+T=<78s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=34 37 51 62 WinListCustCount(安检口队列人数)=4
+34号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=39 42 55 60 WinListCustCount(安检口队列人数)=4
+39号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=43 47 57 61 WinListCustCount(安检口队列人数)=4
+43号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=31 44 50 56 WinListCustCount(安检口队列人数)=4
+31号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=46 49 58 63 WinListCustCount(安检口队列人数)=4
+46号乘客正要被带往警务室
+63号乘客进入8号安检口
+46号乘客将要离开8号安检口
+64号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=1
+ListCustCount(排队缓冲区总乘客数)=15
+
+T=<79s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=34 37 51 62 WinListCustCount(安检口队列人数)=4
+34号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=42 55 60 64 WinListCustCount(安检口队列人数)=4
+64号乘客进入3号安检口
+42号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=43 47 57 61 WinListCustCount(安检口队列人数)=4
+43号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=31 44 50 56 WinListCustCount(安检口队列人数)=4
+31号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=46 49 58 63 WinListCustCount(安检口队列人数)=4
+46号乘客正要被带往警务室
+46号乘客将要离开8号安检口
+65号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=1
+ListCustCount(排队缓冲区总乘客数)=15
+
+T=<80s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=34 37 51 62 WinListCustCount(安检口队列人数)=4
+34号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=30 38 40 54 WinListCustCount(安检口队列人数)=4
+30号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=42 55 60 64 WinListCustCount(安检口队列人数)=4
+42号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=43 47 57 61 WinListCustCount(安检口队列人数)=4
+43号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=44 50 56 65 WinListCustCount(安检口队列人数)=4
+65号乘客进入6号安检口
+44号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=28 35 45 53 WinListCustCount(安检口队列人数)=4
+28号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=46 49 58 63 WinListCustCount(安检口队列人数)=4
+46号乘客正要被带往警务室
+46号乘客将要离开8号安检口
+66号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=1
+ListCustCount(排队缓冲区总乘客数)=16
+
+T=<81s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=34 37 51 62 WinListCustCount(安检口队列人数)=4
+34号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=38 40 54 66 WinListCustCount(安检口队列人数)=4
+66号乘客进入2号安检口
+38号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=42 55 60 64 WinListCustCount(安检口队列人数)=4
+42号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=43 47 57 61 WinListCustCount(安检口队列人数)=4
+43号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=44 50 56 65 WinListCustCount(安检口队列人数)=4
+44号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=35 45 53 67 WinListCustCount(安检口队列人数)=4
+67号乘客进入7号安检口
+35号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=46 49 58 63 WinListCustCount(安检口队列人数)=4
+46号乘客正要被带往警务室
+46号乘客将要离开8号安检口
+68号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=1
+ListCustCount(排队缓冲区总乘客数)=16
+
+T=<82s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=34 37 51 62 WinListCustCount(安检口队列人数)=4
+34号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=38 40 54 66 WinListCustCount(安检口队列人数)=4
+38号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=42 55 60 64 WinListCustCount(安检口队列人数)=4
+42号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=47 57 61 68 WinListCustCount(安检口队列人数)=4
+68号乘客进入5号安检口
+47号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=44 50 56 65 WinListCustCount(安检口队列人数)=4
+44号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=35 45 53 67 WinListCustCount(安检口队列人数)=4
+35号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=46 49 58 63 WinListCustCount(安检口队列人数)=4
+46号乘客正要被带往警务室
+46号乘客将要离开8号安检口
+69号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=1
+ListCustCount(排队缓冲区总乘客数)=16
+
+T=<83s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=34 37 51 62 WinListCustCount(安检口队列人数)=4
+34号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=38 40 54 66 WinListCustCount(安检口队列人数)=4
+38号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=42 55 60 64 WinListCustCount(安检口队列人数)=4
+42号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=47 57 61 68 WinListCustCount(安检口队列人数)=4
+47号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=44 50 56 65 WinListCustCount(安检口队列人数)=4
+44号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=35 45 53 67 WinListCustCount(安检口队列人数)=4
+35号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=46 49 58 63 WinListCustCount(安检口队列人数)=4
+46号乘客正要被带往警务室
+46号乘客将要离开8号安检口
+69号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=1
+ListCustCount(排队缓冲区总乘客数)=18
+
+T=<84s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+69号乘客进入1号安检口
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=38 40 54 66 WinListCustCount(安检口队列人数)=4
+38号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=42 55 60 64 WinListCustCount(安检口队列人数)=4
+42号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=41 48 52 59 WinListCustCount(安检口队列人数)=4
+41号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=47 57 61 68 WinListCustCount(安检口队列人数)=4
+47号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=44 50 56 65 WinListCustCount(安检口队列人数)=4
+44号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=35 45 53 67 WinListCustCount(安检口队列人数)=4
+35号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=46 49 58 63 WinListCustCount(安检口队列人数)=4
+46号乘客正要被带往警务室
+46号乘客将要离开8号安检口
+70号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=19
+
+T=<85s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=38 40 54 66 WinListCustCount(安检口队列人数)=4
+38号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=42 55 60 64 WinListCustCount(安检口队列人数)=4
+42号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=48 52 59 70 WinListCustCount(安检口队列人数)=4
+70号乘客进入4号安检口
+48号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=47 57 61 68 WinListCustCount(安检口队列人数)=4
+47号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=44 50 56 65 WinListCustCount(安检口队列人数)=4
+44号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=35 45 53 67 WinListCustCount(安检口队列人数)=4
+35号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=46 49 58 63 WinListCustCount(安检口队列人数)=4
+46号乘客正要被带往警务室
+46号乘客将要离开8号安检口
+71号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=19
+
+T=<86s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=38 40 54 66 WinListCustCount(安检口队列人数)=4
+38号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=42 55 60 64 WinListCustCount(安检口队列人数)=4
+42号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=48 52 59 70 WinListCustCount(安检口队列人数)=4
+48号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=47 57 61 68 WinListCustCount(安检口队列人数)=4
+47号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=44 50 56 65 WinListCustCount(安检口队列人数)=4
+44号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=35 45 53 67 WinListCustCount(安检口队列人数)=4
+35号乘客将要离开7号安检口
+WIN8:State=办理结束 WinListCustCount(安检口队列人数)=0
+71号乘客进入8号安检口
+49号乘客将要离开8号安检口
+72号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=20
+
+T=<87s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=38 40 54 66 WinListCustCount(安检口队列人数)=4
+38号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=42 55 60 64 WinListCustCount(安检口队列人数)=4
+42号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=48 52 59 70 WinListCustCount(安检口队列人数)=4
+48号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=47 57 61 68 WinListCustCount(安检口队列人数)=4
+47号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=44 50 56 65 WinListCustCount(安检口队列人数)=4
+44号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=35 45 53 67 WinListCustCount(安检口队列人数)=4
+35号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+72号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=0
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=21
+
+T=<88s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=38 40 54 66 WinListCustCount(安检口队列人数)=4
+38号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=42 55 60 64 WinListCustCount(安检口队列人数)=4
+42号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=48 52 59 70 WinListCustCount(安检口队列人数)=4
+48号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=47 57 61 68 WinListCustCount(安检口队列人数)=4
+47号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=44 50 56 65 WinListCustCount(安检口队列人数)=4
+44号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=35 45 53 67 WinListCustCount(安检口队列人数)=4
+35号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+72号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=1
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=22
+
+T=<89s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=38 40 54 66 WinListCustCount(安检口队列人数)=4
+38号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=42 55 60 64 WinListCustCount(安检口队列人数)=4
+42号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=48 52 59 70 WinListCustCount(安检口队列人数)=4
+48号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=47 57 61 68 WinListCustCount(安检口队列人数)=4
+47号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=44 50 56 65 WinListCustCount(安检口队列人数)=4
+44号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=35 45 53 67 WinListCustCount(安检口队列人数)=4
+35号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+72号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=1
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=23
+
+T=<90s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=38 40 54 66 WinListCustCount(安检口队列人数)=4
+38号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=42 55 60 64 WinListCustCount(安检口队列人数)=4
+42号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=52 59 70 72 WinListCustCount(安检口队列人数)=4
+72号乘客进入4号安检口
+52号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=57 61 68 73 WinListCustCount(安检口队列人数)=4
+73号乘客进入5号安检口
+57号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=44 50 56 65 WinListCustCount(安检口队列人数)=4
+44号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=35 45 53 67 WinListCustCount(安检口队列人数)=4
+35号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+74号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=1
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=22
+
+T=<91s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=38 40 54 66 WinListCustCount(安检口队列人数)=4
+38号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=42 55 60 64 WinListCustCount(安检口队列人数)=4
+42号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=52 59 70 72 WinListCustCount(安检口队列人数)=4
+52号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=57 61 68 73 WinListCustCount(安检口队列人数)=4
+57号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=44 50 56 65 WinListCustCount(安检口队列人数)=4
+44号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=35 45 53 67 WinListCustCount(安检口队列人数)=4
+35号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+74号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=1
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=24
+
+T=<92s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=38 40 54 66 WinListCustCount(安检口队列人数)=4
+38号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=42 55 60 64 WinListCustCount(安检口队列人数)=4
+42号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=52 59 70 72 WinListCustCount(安检口队列人数)=4
+52号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=57 61 68 73 WinListCustCount(安检口队列人数)=4
+57号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=44 50 56 65 WinListCustCount(安检口队列人数)=4
+44号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=35 45 53 67 WinListCustCount(安检口队列人数)=4
+35号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+74号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=1
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<93s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=38 40 54 66 WinListCustCount(安检口队列人数)=4
+38号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+74号乘客进入3号安检口
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=52 59 70 72 WinListCustCount(安检口队列人数)=4
+52号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=57 61 68 73 WinListCustCount(安检口队列人数)=4
+57号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=44 50 56 65 WinListCustCount(安检口队列人数)=4
+44号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=35 45 53 67 WinListCustCount(安检口队列人数)=4
+35号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+75号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=1
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<94s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=38 40 54 66 WinListCustCount(安检口队列人数)=4
+38号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=52 59 70 72 WinListCustCount(安检口队列人数)=4
+52号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=57 61 68 73 WinListCustCount(安检口队列人数)=4
+57号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=50 56 65 75 WinListCustCount(安检口队列人数)=4
+75号乘客进入6号安检口
+50号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+76号乘客进入7号安检口
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+77号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=1
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<95s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=40 54 66 77 WinListCustCount(安检口队列人数)=4
+77号乘客进入2号安检口
+40号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=52 59 70 72 WinListCustCount(安检口队列人数)=4
+52号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=57 61 68 73 WinListCustCount(安检口队列人数)=4
+57号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=50 56 65 75 WinListCustCount(安检口队列人数)=4
+50号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+78号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=25
+
+T=<96s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=40 54 66 77 WinListCustCount(安检口队列人数)=4
+40号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=52 59 70 72 WinListCustCount(安检口队列人数)=4
+52号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=57 61 68 73 WinListCustCount(安检口队列人数)=4
+57号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=50 56 65 75 WinListCustCount(安检口队列人数)=4
+50号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+78号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<97s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=40 54 66 77 WinListCustCount(安检口队列人数)=4
+40号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=52 59 70 72 WinListCustCount(安检口队列人数)=4
+52号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=61 68 73 78 WinListCustCount(安检口队列人数)=4
+78号乘客进入5号安检口
+61号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=50 56 65 75 WinListCustCount(安检口队列人数)=4
+50号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+79号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<98s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=40 54 66 77 WinListCustCount(安检口队列人数)=4
+40号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=52 59 70 72 WinListCustCount(安检口队列人数)=4
+52号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=61 68 73 78 WinListCustCount(安检口队列人数)=4
+61号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=50 56 65 75 WinListCustCount(安检口队列人数)=4
+50号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+79号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=28
+
+T=<99s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=40 54 66 77 WinListCustCount(安检口队列人数)=4
+40号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=52 59 70 72 WinListCustCount(安检口队列人数)=4
+52号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=61 68 73 78 WinListCustCount(安检口队列人数)=4
+61号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=50 56 65 75 WinListCustCount(安检口队列人数)=4
+50号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+79号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=29
+
+T=<100s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=40 54 66 77 WinListCustCount(安检口队列人数)=4
+40号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=52 59 70 72 WinListCustCount(安检口队列人数)=4
+52号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=61 68 73 78 WinListCustCount(安检口队列人数)=4
+61号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=50 56 65 75 WinListCustCount(安检口队列人数)=4
+50号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+79号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=30
+
+T=<101s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=40 54 66 77 WinListCustCount(安检口队列人数)=4
+40号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=59 70 72 79 WinListCustCount(安检口队列人数)=4
+79号乘客进入4号安检口
+59号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=61 68 73 78 WinListCustCount(安检口队列人数)=4
+61号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=50 56 65 75 WinListCustCount(安检口队列人数)=4
+50号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+80号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=29
+
+T=<102s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=37 51 62 69 WinListCustCount(安检口队列人数)=4
+37号乘客正要被带往警务室
+37号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=40 54 66 77 WinListCustCount(安检口队列人数)=4
+40号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=59 70 72 79 WinListCustCount(安检口队列人数)=4
+59号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=61 68 73 78 WinListCustCount(安检口队列人数)=4
+61号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=50 56 65 75 WinListCustCount(安检口队列人数)=4
+50号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+80号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=2
+ListCustCount(排队缓冲区总乘客数)=29
+
+T=<103s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=51 62 69 80 WinListCustCount(安检口队列人数)=4
+80号乘客进入1号安检口
+51号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=40 54 66 77 WinListCustCount(安检口队列人数)=4
+40号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=59 70 72 79 WinListCustCount(安检口队列人数)=4
+59号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=61 68 73 78 WinListCustCount(安检口队列人数)=4
+61号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=56 65 75 81 WinListCustCount(安检口队列人数)=4
+56号乘客正要被带往警务室
+81号乘客进入6号安检口
+56号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+82号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=3
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<104s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=51 62 69 80 WinListCustCount(安检口队列人数)=4
+51号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=40 54 66 77 WinListCustCount(安检口队列人数)=4
+40号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=59 70 72 79 WinListCustCount(安检口队列人数)=4
+59号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=61 68 73 78 WinListCustCount(安检口队列人数)=4
+61号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=56 65 75 81 WinListCustCount(安检口队列人数)=4
+56号乘客正要被带往警务室
+56号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=49 58 63 71 WinListCustCount(安检口队列人数)=4
+49号乘客将要离开8号安检口
+82号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=3
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<105s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=51 62 69 80 WinListCustCount(安检口队列人数)=4
+51号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=40 54 66 77 WinListCustCount(安检口队列人数)=4
+40号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=59 70 72 79 WinListCustCount(安检口队列人数)=4
+59号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=61 68 73 78 WinListCustCount(安检口队列人数)=4
+61号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=56 65 75 81 WinListCustCount(安检口队列人数)=4
+56号乘客正要被带往警务室
+56号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+82号乘客进入8号安检口
+58号乘客将要离开8号安检口
+83号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=3
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<106s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=51 62 69 80 WinListCustCount(安检口队列人数)=4
+51号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=40 54 66 77 WinListCustCount(安检口队列人数)=4
+40号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=59 70 72 79 WinListCustCount(安检口队列人数)=4
+59号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=61 68 73 78 WinListCustCount(安检口队列人数)=4
+61号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=56 65 75 81 WinListCustCount(安检口队列人数)=4
+56号乘客正要被带往警务室
+56号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+58号乘客将要离开8号安检口
+83号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=3
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<107s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=51 62 69 80 WinListCustCount(安检口队列人数)=4
+51号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=54 66 77 83 WinListCustCount(安检口队列人数)=4
+83号乘客进入2号安检口
+54号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=55 60 64 74 WinListCustCount(安检口队列人数)=4
+55号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=59 70 72 79 WinListCustCount(安检口队列人数)=4
+59号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=61 68 73 78 WinListCustCount(安检口队列人数)=4
+61号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=56 65 75 81 WinListCustCount(安检口队列人数)=4
+56号乘客正要被带往警务室
+56号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+58号乘客将要离开8号安检口
+84号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=3
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<108s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=51 62 69 80 WinListCustCount(安检口队列人数)=4
+51号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=54 66 77 83 WinListCustCount(安检口队列人数)=4
+54号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+84号乘客进入3号安检口
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=59 70 72 79 WinListCustCount(安检口队列人数)=4
+59号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=61 68 73 78 WinListCustCount(安检口队列人数)=4
+61号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=56 65 75 81 WinListCustCount(安检口队列人数)=4
+56号乘客正要被带往警务室
+56号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+58号乘客将要离开8号安检口
+85号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=3
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<109s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=51 62 69 80 WinListCustCount(安检口队列人数)=4
+51号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=54 66 77 83 WinListCustCount(安检口队列人数)=4
+54号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=59 70 72 79 WinListCustCount(安检口队列人数)=4
+59号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=61 68 73 78 WinListCustCount(安检口队列人数)=4
+61号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=56 65 75 81 WinListCustCount(安检口队列人数)=4
+56号乘客正要被带往警务室
+56号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+58号乘客将要离开8号安检口
+85号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=3
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<110s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=51 62 69 80 WinListCustCount(安检口队列人数)=4
+51号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=54 66 77 83 WinListCustCount(安检口队列人数)=4
+54号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=59 70 72 79 WinListCustCount(安检口队列人数)=4
+59号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=68 73 78 85 WinListCustCount(安检口队列人数)=4
+85号乘客进入5号安检口
+68号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=56 65 75 81 WinListCustCount(安检口队列人数)=4
+56号乘客正要被带往警务室
+56号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+58号乘客将要离开8号安检口
+86号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=3
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<111s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=51 62 69 80 WinListCustCount(安检口队列人数)=4
+51号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=54 66 77 83 WinListCustCount(安检口队列人数)=4
+54号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=59 70 72 79 WinListCustCount(安检口队列人数)=4
+59号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=68 73 78 85 WinListCustCount(安检口队列人数)=4
+68号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=56 65 75 81 WinListCustCount(安检口队列人数)=4
+56号乘客正要被带往警务室
+56号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+58号乘客将要离开8号安检口
+86号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=3
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<112s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=51 62 69 80 WinListCustCount(安检口队列人数)=4
+51号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=54 66 77 83 WinListCustCount(安检口队列人数)=4
+54号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=59 70 72 79 WinListCustCount(安检口队列人数)=4
+59号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=68 73 78 85 WinListCustCount(安检口队列人数)=4
+68号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=56 65 75 81 WinListCustCount(安检口队列人数)=4
+56号乘客正要被带往警务室
+56号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+58号乘客将要离开8号安检口
+86号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=3
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<113s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=51 62 69 80 WinListCustCount(安检口队列人数)=4
+51号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=54 66 77 83 WinListCustCount(安检口队列人数)=4
+54号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=59 70 72 79 WinListCustCount(安检口队列人数)=4
+59号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=68 73 78 85 WinListCustCount(安检口队列人数)=4
+68号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=56 65 75 81 WinListCustCount(安检口队列人数)=4
+56号乘客正要被带往警务室
+56号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=45 53 67 76 WinListCustCount(安检口队列人数)=4
+45号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+58号乘客将要离开8号安检口
+86号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=3
+ListCustCount(排队缓冲区总乘客数)=28
+
+T=<114s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=51 62 69 80 WinListCustCount(安检口队列人数)=4
+51号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=54 66 77 83 WinListCustCount(安检口队列人数)=4
+54号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=59 70 72 79 WinListCustCount(安检口队列人数)=4
+59号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=68 73 78 85 WinListCustCount(安检口队列人数)=4
+68号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=56 65 75 81 WinListCustCount(安检口队列人数)=4
+56号乘客正要被带往警务室
+56号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+86号乘客进入7号安检口
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+58号乘客将要离开8号安检口
+87号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=3
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<115s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=51 62 69 80 WinListCustCount(安检口队列人数)=4
+51号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=54 66 77 83 WinListCustCount(安检口队列人数)=4
+54号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+87号乘客进入4号安检口
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=68 73 78 85 WinListCustCount(安检口队列人数)=4
+68号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=56 65 75 81 WinListCustCount(安检口队列人数)=4
+56号乘客正要被带往警务室
+56号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+58号乘客将要离开8号安检口
+88号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=3
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<116s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=51 62 69 80 WinListCustCount(安检口队列人数)=4
+51号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=54 66 77 83 WinListCustCount(安检口队列人数)=4
+54号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+88号乘客进入5号安检口
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=56 65 75 81 WinListCustCount(安检口队列人数)=4
+56号乘客正要被带往警务室
+56号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+58号乘客将要离开8号安检口
+89号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<117s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=62 69 80 90 WinListCustCount(安检口队列人数)=4
+90号乘客进入1号安检口
+62号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=54 66 77 83 WinListCustCount(安检口队列人数)=4
+54号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=65 75 81 89 WinListCustCount(安检口队列人数)=4
+89号乘客进入6号安检口
+65号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+58号乘客将要离开8号安检口
+91号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=25
+
+T=<118s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=62 69 80 90 WinListCustCount(安检口队列人数)=4
+62号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=54 66 77 83 WinListCustCount(安检口队列人数)=4
+54号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=65 75 81 89 WinListCustCount(安检口队列人数)=4
+65号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+58号乘客将要离开8号安检口
+91号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<119s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=62 69 80 90 WinListCustCount(安检口队列人数)=4
+62号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=66 77 83 91 WinListCustCount(安检口队列人数)=4
+91号乘客进入2号安检口
+66号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=65 75 81 89 WinListCustCount(安检口队列人数)=4
+65号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=58 63 71 82 WinListCustCount(安检口队列人数)=4
+58号乘客将要离开8号安检口
+92号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=25
+
+T=<120s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=62 69 80 90 WinListCustCount(安检口队列人数)=4
+62号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=66 77 83 91 WinListCustCount(安检口队列人数)=4
+66号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=65 75 81 89 WinListCustCount(安检口队列人数)=4
+65号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=63 71 82 92 WinListCustCount(安检口队列人数)=4
+92号乘客进入8号安检口
+63号乘客将要离开8号安检口
+94号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=24
+
+T=<121s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=62 69 80 90 WinListCustCount(安检口队列人数)=4
+62号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=66 77 83 91 WinListCustCount(安检口队列人数)=4
+66号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=65 75 81 89 WinListCustCount(安检口队列人数)=4
+65号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=63 71 82 92 WinListCustCount(安检口队列人数)=4
+63号乘客将要离开8号安检口
+94号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=25
+
+T=<122s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=62 69 80 90 WinListCustCount(安检口队列人数)=4
+62号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=66 77 83 91 WinListCustCount(安检口队列人数)=4
+66号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=65 75 81 89 WinListCustCount(安检口队列人数)=4
+65号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=63 71 82 92 WinListCustCount(安检口队列人数)=4
+63号乘客将要离开8号安检口
+94号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=25
+
+T=<123s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=62 69 80 90 WinListCustCount(安检口队列人数)=4
+62号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=66 77 83 91 WinListCustCount(安检口队列人数)=4
+66号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=65 75 81 89 WinListCustCount(安检口队列人数)=4
+65号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=63 71 82 92 WinListCustCount(安检口队列人数)=4
+63号乘客将要离开8号安检口
+94号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<124s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=62 69 80 90 WinListCustCount(安检口队列人数)=4
+62号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=66 77 83 91 WinListCustCount(安检口队列人数)=4
+66号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=65 75 81 89 WinListCustCount(安检口队列人数)=4
+65号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=63 71 82 92 WinListCustCount(安检口队列人数)=4
+63号乘客将要离开8号安检口
+94号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<125s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=62 69 80 90 WinListCustCount(安检口队列人数)=4
+62号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=66 77 83 91 WinListCustCount(安检口队列人数)=4
+66号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=65 75 81 89 WinListCustCount(安检口队列人数)=4
+65号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=63 71 82 92 WinListCustCount(安检口队列人数)=4
+63号乘客将要离开8号安检口
+94号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<126s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=62 69 80 90 WinListCustCount(安检口队列人数)=4
+62号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=66 77 83 91 WinListCustCount(安检口队列人数)=4
+66号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=65 75 81 89 WinListCustCount(安检口队列人数)=4
+65号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=63 71 82 92 WinListCustCount(安检口队列人数)=4
+63号乘客将要离开8号安检口
+94号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<127s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=62 69 80 90 WinListCustCount(安检口队列人数)=4
+62号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=66 77 83 91 WinListCustCount(安检口队列人数)=4
+66号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=60 64 74 84 WinListCustCount(安检口队列人数)=4
+60号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=65 75 81 89 WinListCustCount(安检口队列人数)=4
+65号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=63 71 82 92 WinListCustCount(安检口队列人数)=4
+63号乘客将要离开8号安检口
+94号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=28
+
+T=<128s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=62 69 80 90 WinListCustCount(安检口队列人数)=4
+62号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=66 77 83 91 WinListCustCount(安检口队列人数)=4
+66号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+94号乘客进入3号安检口
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=65 75 81 89 WinListCustCount(安检口队列人数)=4
+65号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+95号乘客进入8号安检口
+71号乘客将要离开8号安检口
+96号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<129s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=62 69 80 90 WinListCustCount(安检口队列人数)=4
+62号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=66 77 83 91 WinListCustCount(安检口队列人数)=4
+66号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=65 75 81 89 WinListCustCount(安检口队列人数)=4
+65号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+96号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<130s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=69 80 90 96 WinListCustCount(安检口队列人数)=4
+96号乘客进入1号安检口
+69号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=66 77 83 91 WinListCustCount(安检口队列人数)=4
+66号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=65 75 81 89 WinListCustCount(安检口队列人数)=4
+65号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+97号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<131s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=69 80 90 96 WinListCustCount(安检口队列人数)=4
+69号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=66 77 83 91 WinListCustCount(安检口队列人数)=4
+66号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+97号乘客进入6号安检口
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+98号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<132s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=69 80 90 96 WinListCustCount(安检口队列人数)=4
+69号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=66 77 83 91 WinListCustCount(安检口队列人数)=4
+66号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=53 67 76 86 WinListCustCount(安检口队列人数)=4
+53号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+98号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<133s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=69 80 90 96 WinListCustCount(安检口队列人数)=4
+69号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=77 83 91 98 WinListCustCount(安检口队列人数)=4
+98号乘客进入2号安检口
+77号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=70 72 79 87 WinListCustCount(安检口队列人数)=4
+70号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=73 78 85 88 WinListCustCount(安检口队列人数)=4
+73号乘客正要被带往警务室
+73号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=67 76 86 99 WinListCustCount(安检口队列人数)=4
+99号乘客进入7号安检口
+67号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+100号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<134s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=69 80 90 96 WinListCustCount(安检口队列人数)=4
+69号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=77 83 91 98 WinListCustCount(安检口队列人数)=4
+77号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=72 79 87 101 WinListCustCount(安检口队列人数)=4
+101号乘客进入4号安检口
+72号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+100号乘客进入5号安检口
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=67 76 86 99 WinListCustCount(安检口队列人数)=4
+67号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+102号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=25
+
+T=<135s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=69 80 90 96 WinListCustCount(安检口队列人数)=4
+69号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=77 83 91 98 WinListCustCount(安检口队列人数)=4
+77号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=72 79 87 101 WinListCustCount(安检口队列人数)=4
+72号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=67 76 86 99 WinListCustCount(安检口队列人数)=4
+67号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+102号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<136s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=69 80 90 96 WinListCustCount(安检口队列人数)=4
+69号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=77 83 91 98 WinListCustCount(安检口队列人数)=4
+77号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=72 79 87 101 WinListCustCount(安检口队列人数)=4
+72号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=67 76 86 99 WinListCustCount(安检口队列人数)=4
+67号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+102号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=26
+
+T=<137s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=69 80 90 96 WinListCustCount(安检口队列人数)=4
+69号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=77 83 91 98 WinListCustCount(安检口队列人数)=4
+77号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=72 79 87 101 WinListCustCount(安检口队列人数)=4
+72号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=67 76 86 99 WinListCustCount(安检口队列人数)=4
+67号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+102号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<138s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=69 80 90 96 WinListCustCount(安检口队列人数)=4
+69号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=77 83 91 98 WinListCustCount(安检口队列人数)=4
+77号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=72 79 87 101 WinListCustCount(安检口队列人数)=4
+72号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=67 76 86 99 WinListCustCount(安检口队列人数)=4
+67号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+102号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=28
+
+T=<139s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=69 80 90 96 WinListCustCount(安检口队列人数)=4
+69号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=77 83 91 98 WinListCustCount(安检口队列人数)=4
+77号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=72 79 87 101 WinListCustCount(安检口队列人数)=4
+72号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=76 86 99 102 WinListCustCount(安检口队列人数)=4
+102号乘客进入7号安检口
+76号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+103号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=28
+
+T=<140s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=69 80 90 96 WinListCustCount(安检口队列人数)=4
+69号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=77 83 91 98 WinListCustCount(安检口队列人数)=4
+77号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=72 79 87 101 WinListCustCount(安检口队列人数)=4
+72号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=76 86 99 102 WinListCustCount(安检口队列人数)=4
+76号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+103号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=28
+
+T=<141s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=69 80 90 96 WinListCustCount(安检口队列人数)=4
+69号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=83 91 98 103 WinListCustCount(安检口队列人数)=4
+103号乘客进入2号安检口
+83号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=72 79 87 101 WinListCustCount(安检口队列人数)=4
+72号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=76 86 99 102 WinListCustCount(安检口队列人数)=4
+76号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+105号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=28
+
+T=<142s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=69 80 90 96 WinListCustCount(安检口队列人数)=4
+69号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=83 91 98 103 WinListCustCount(安检口队列人数)=4
+83号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=72 79 87 101 WinListCustCount(安检口队列人数)=4
+72号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=76 86 99 102 WinListCustCount(安检口队列人数)=4
+76号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+105号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=29
+
+T=<143s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=80 90 96 105 WinListCustCount(安检口队列人数)=4
+105号乘客进入1号安检口
+80号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=83 91 98 103 WinListCustCount(安检口队列人数)=4
+83号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=72 79 87 101 WinListCustCount(安检口队列人数)=4
+72号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=76 86 99 102 WinListCustCount(安检口队列人数)=4
+76号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+106号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=28
+
+T=<144s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=80 90 96 105 WinListCustCount(安检口队列人数)=4
+80号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=83 91 98 103 WinListCustCount(安检口队列人数)=4
+83号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=72 79 87 101 WinListCustCount(安检口队列人数)=4
+72号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=76 86 99 102 WinListCustCount(安检口队列人数)=4
+76号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+106号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=29
+
+T=<145s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=80 90 96 105 WinListCustCount(安检口队列人数)=4
+80号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=83 91 98 103 WinListCustCount(安检口队列人数)=4
+83号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=72 79 87 101 WinListCustCount(安检口队列人数)=4
+72号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=76 86 99 102 WinListCustCount(安检口队列人数)=4
+76号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=71 82 92 95 WinListCustCount(安检口队列人数)=4
+71号乘客将要离开8号安检口
+106号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=29
+
+T=<146s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=80 90 96 105 WinListCustCount(安检口队列人数)=4
+80号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=83 91 98 103 WinListCustCount(安检口队列人数)=4
+83号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=64 74 84 94 WinListCustCount(安检口队列人数)=4
+64号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=79 87 101 107 WinListCustCount(安检口队列人数)=4
+107号乘客进入4号安检口
+79号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=76 86 99 102 WinListCustCount(安检口队列人数)=4
+76号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=82 92 95 106 WinListCustCount(安检口队列人数)=4
+106号乘客进入8号安检口
+82号乘客将要离开8号安检口
+108号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=28
+
+T=<147s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=80 90 96 105 WinListCustCount(安检口队列人数)=4
+80号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=83 91 98 103 WinListCustCount(安检口队列人数)=4
+83号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=74 84 94 108 WinListCustCount(安检口队列人数)=4
+108号乘客进入3号安检口
+74号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=79 87 101 107 WinListCustCount(安检口队列人数)=4
+79号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=76 86 99 102 WinListCustCount(安检口队列人数)=4
+76号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=82 92 95 106 WinListCustCount(安检口队列人数)=4
+82号乘客将要离开8号安检口
+109号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=27
+
+T=<148s>
+OFFDUTY=N
+WIN1:State=办理中 WinList(队列中乘客编号列表)=80 90 96 105 WinListCustCount(安检口队列人数)=4
+80号乘客将要离开1号安检口
+WIN2:State=办理中 WinList(队列中乘客编号列表)=91 98 103 109 WinListCustCount(安检口队列人数)=4
+109号乘客进入2号安检口
+91号乘客将要离开2号安检口
+WIN3:State=办理中 WinList(队列中乘客编号列表)=74 84 94 108 WinListCustCount(安检口队列人数)=4
+74号乘客将要离开3号安检口
+WIN4:State=办理中 WinList(队列中乘客编号列表)=79 87 101 107 WinListCustCount(安检口队列人数)=4
+79号乘客将要离开4号安检口
+WIN5:State=办理中 WinList(队列中乘客编号列表)=78 85 88 100 WinListCustCount(安检口队列人数)=4
+78号乘客将要离开5号安检口
+WIN6:State=办理中 WinList(队列中乘客编号列表)=75 81 89 97 WinListCustCount(安检口队列人数)=4
+75号乘客将要离开6号安检口
+WIN7:State=办理中 WinList(队列中乘客编号列表)=76 86 99 102 WinListCustCount(安检口队列人数)=4
+76号乘客将要离开7号安检口
+WIN8:State=办理中 WinList(队列中乘客编号列表)=82 92 95 106 WinListCustCount(安检口队列人数)=4
+82号乘客将要离开8号安检口
+110号乘客将要进入1号安检口
+EMERGENCY:Total Number Passed(紧急乘客数量)=2
+违禁品携带者数量=4
+ListCustCount(排队缓冲区总乘客数)=27
+
